@@ -1,8 +1,8 @@
 {
 	"homepage": "https://github.com/mystronics/undermod",
 	"promos": {
-		"1.16.5-latest": "1.16.5-0.1.0",
-		"1.16.5-recommended": "1.16.5-0.1.0"
+		"1.16.5-latest": "1.16.5-0.1.1",
+		"1.16.5-recommended": "1.16.5-0.1.1"
 	},
 	"1.16.5": {
 		"1.16.5-0.1.0": "First version of Undermod! Included underbiomes:\n-Sewers\n-Crater\n-Underground Forest\n-Underground Sea\n-Undeground River\n-Caverns"
