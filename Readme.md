@@ -1,6 +1,6 @@
 # Undermod
 
-**A new generation engine for voxel games, that brings procedural underground biomes to Minecraft ⏚**
+**A new world generation engine for voxel games, that brings procedural underground biomes to Minecraft ⏚**
 
 ---
 
