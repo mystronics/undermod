@@ -2,7 +2,7 @@
 	"homepage": "https://undermod.net",
 	"promos": {
 		"1.16.5-latest": "0.1.1",
-		"1.16.5-recommended": "0.1.0"
+		"1.16.5-recommended": "0.1.1"
 	},
 	"1.16.5": {
 		"0.1.0": "First version of Undermod! Included underbiomes:\n-Sewers\n-Crater\n-Underground Forest\n-Underground Sea\n-Undeground River\n-Caverns"
