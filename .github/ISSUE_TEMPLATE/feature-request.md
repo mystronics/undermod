@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature Request
 about: Suggest an idea to add to Undermod!
 title: ''
 labels: enhancement
