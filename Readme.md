@@ -4,11 +4,11 @@
 
 ---
 
-Welcome! This mod is closed-source under an “All Rights Reserved” license for now. We kindly ask users and modders to respect these terms by not copying or redistributing it without permission yet.
+Welcome! This mod is closed-source for now. We kindly ask users and modders to respect these terms by not copying or redistributing it without permission yet (check [license](https://github.com/mystronics/undermod/blob/main/license.txt) for details). **Do feel free to include it in your modpack as long as you give proper credit!**
 
-In the future, we may consider open-sourcing parts of the code, such as the Minecraft mod of even the entire voxel engine — but no guarantees are being made at this time. If you’re interested in this possibility, please reach out rather than attempting to modify or redistribute Undermod independently.
+In the future, we may consider open-sourcing parts of the code, such as the Minecraft mod of even the entire procedural generation engine — but no guarantees are being made at this time. If you’re interested in this possibility, please reach out rather than attempting to modify or redistribute Undermod independently.
 
-Thank you for your patience and support!
+Thank you for your patience and support.
 
 ---
 
