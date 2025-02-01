@@ -1,0 +1,71 @@
+Undermod – Copyright Notice
+Copyright © 2025 Mystronics. All rights reserved.
+
+This Minecraft mod ("Mod") is the intellectual property of Mystronics. By downloading, using, or distributing this Mod, you agree to the following terms:
+
+--------------------------
+Ownership & Rights
+--------------------------
+1. Intellectual Property:
+This Mod, including all original code, assets, and the embedded voxel world generation engine, is the exclusive property of Mystronics.
+Any assets derived from Minecraft’s intellectual property remain subject to Mojang/Microsoft’s EULA and are not owned by Mystronics.
+
+2. Restrictions:
+You may not claim ownership of this Mod or any of its components.
+You may not decompile, modify, or extract parts of this Mod for use in other projects or for redistribution, without explicit written permission.
+
+--------------------------
+Allowed Usage
+--------------------------
+You may use this Mod for personal enjoyment in your own Minecraft installation.
+
+--------------------------
+Modpack & Server Inclusion
+--------------------------
+You are granted a non-exclusive, revocable license to include this Mod in:
+
+1. Publicly available modpacks without prior written permission, as long as:
+- The Mod is included in its original, unmodified form and is not redistributed separately.
+- Proper credit is given to Mystronics.
+
+2. Non-commercial Minecraft servers without prior written permission, as long as:
+- The server is free to access and does not generate revenue (e.g., no paywalls, ads, or in-game purchases).
+- The Mod is provided in its original, unmodified form.
+
+--------------------------
+Commercial Use
+--------------------------
+If you wish to use this Mod for any commercial purpose, including but not limited to:
+- Paid access servers (whitelisted or subscription-based).
+- Modpacks or launchers that generate revenue (including ad-supported downloads).
+- Any monetized services or platforms where the Mod contributes to revenue generation.
+You must obtain prior written permission from Mystronics.
+Failure to obtain permission may result in legal action.
+
+--------------------------
+Prohibited Actions
+--------------------------
+You may not:
+- Redistribute this Mod as a standalone download on any platform (websites, forums, mod repositories, etc.) without prior written permission.
+- Modify, decompile, or reuse any part of this Mod’s code, assets, or embedded voxel engine in other projects without explicit consent.
+- Remove, alter, or obscure any copyright, attribution, or proprietary notices contained in this Mod.
+- Use this Mod in any illegal manner, including violations of Minecraft’s EULA or any applicable laws.
+
+--------------------------
+Liability Disclaimer
+--------------------------
+This Mod is provided "as is," without any warranties or guarantees. Mystronics is not responsible for any issues, damages, or data loss resulting from the use of this Mod.
+In no event shall Mystronics be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in connection with the use or inability to use this Mod.
+
+--------------------------
+Modification of License
+--------------------------
+Mystronics reserves the right to modify, update, or amend this License at its sole discretion. Any changes will be effective upon posting of the updated License. Users who downloaded the Mod prior to any such changes shall be governed by the version of the License in effect at the time of download. These modifications shall not apply retroactively to any copies of the Mod already in circulation.
+
+--------------------------
+Severability Clause
+--------------------------
+If any provision of this License is held to be invalid, illegal, or unenforceable for any reason, such provision shall be deemed modified to the minimum extent necessary to render it enforceable, or if no such modification is possible, it shall be severed from this License, and the remaining provisions shall continue in full force and effect.
+
+--------------------------
+By using this Mod, you acknowledge and agree to the terms outlined above.
