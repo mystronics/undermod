@@ -9,7 +9,7 @@ By downloading, using, or distributing this Mod, you agree to the following term
 Ownership & Rights
 --------------------------
 1. Intellectual Property:
-This Mod, including all original code, assets, and the embedded voxel world generation engine, is the exclusive property of Mystronics.
+This Mod, including all original source code, compiled bytecode, assets, and the embedded voxel world generation engine, is the exclusive property of Mystronics.
 
 2. Restrictions:
 You may not claim ownership of this Mod or any of its components.
