@@ -1,10 +1,12 @@
 # Undermod
+
+---
+
 **A new generation engine for voxel games, that brings procedural underground biomes to Minecraft ⏚**
+
 ---
 
 Welcome to the official Undermod issue tracking repository! For bug reporting, technical support, suggestions and general discussion, please go to the [Issues](https://github.com/mystronics/undermod/issues) tab or use the links below.
-
----
 
 [Report a bug](https://github.com/mystronics/undermod/issues/new?template=bug-report.md) - Create a report to help Undermod improve.
 
