@@ -11,4 +11,4 @@ For bug reporting, technical support, suggestions and general discussion, please
 
 [Ask a question](https://github.com/mystronics/undermod/issues/new?template=question.md) - Ask for help or clarification about Undermod or Mystronics.
 
-[Give feedback](https://github.com/mystronics/undermod/issues/new?template=feedback.md) - Share your support or constructive suggestions. For specific features please create a Feature Request instead.
+[Share feedback](https://github.com/mystronics/undermod/issues/new?template=feedback.md) - Share your support or constructive suggestions. For specific features please create a Feature Request instead.
