@@ -1,14 +1,15 @@
 Undermod – Copyright Notice
 Copyright © 2025 Mystronics. All rights reserved.
+For the most recent version of this License, please visit: https://license.undermod.net
 
-This Minecraft mod ("Mod") is the intellectual property of Mystronics. By downloading, using, or distributing this Mod, you agree to the following terms:
+This Minecraft mod ("Mod") is the intellectual property of Mystronics.
+By downloading, using, or distributing this Mod, you agree to the following terms:
 
 --------------------------
 Ownership & Rights
 --------------------------
 1. Intellectual Property:
 This Mod, including all original code, assets, and the embedded voxel world generation engine, is the exclusive property of Mystronics.
-Any assets derived from Minecraft’s intellectual property remain subject to Mojang/Microsoft’s EULA and are not owned by Mystronics.
 
 2. Restrictions:
 You may not claim ownership of this Mod or any of its components.
