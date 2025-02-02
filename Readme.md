@@ -4,7 +4,7 @@
 
 ---
 
-Welcome! This mod is closed-source for now. We kindly ask users and modders to respect these terms by not copying or redistributing it without permission yet (check [license](https://github.com/mystronics/undermod/tree/main?tab=License-1-ov-file) for details). **Do feel free to include it in your modpack as long as you give proper credit!**
+Welcome! This mod is closed-source for now. We kindly ask users and modders to respect these terms by not copying or redistributing it without permission yet (check [license](https://github.com/mystronics/undermod/tree/main?tab=License-1-ov-file) for details). **Do feel free to include it in your modpack, just please give proper credit!**
 
 In the future, we may consider open-sourcing parts of the code, such as the Minecraft mod of even the entire procedural generation engine — but no guarantees are being made at this time. If you’re interested in this possibility, please reach out rather than attempting to modify or redistribute Undermod independently.
 
