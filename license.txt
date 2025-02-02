@@ -13,7 +13,7 @@ This Mod, including all original source code, compiled bytecode, assets, and the
 
 2. Restrictions:
 You may not claim ownership of this Mod or any of its components.
-You may not decompile, modify, or extract parts of this Mod for use in other projects or for redistribution, without explicit written permission.
+You may not decompile, modify, or extract parts of this Mod for use in other projects or for redistribution, without explicit written permission from Mystronics.
 
 --------------------------
 Allowed Usage
