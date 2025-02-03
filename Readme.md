@@ -1,4 +1,4 @@
-![Undermod](https://github.com/mystronics/undermod/blob/44a84f55bcb7cf71f58d289583d825c631f0f6e5/undermod_logo.png)
+![Undermod](https://github.com/mystronics/undermod/blob/e5a6eeef8223cb7418858d5579dd355d81f71ac1/undermod_logo.png)
 
 **⏚ A new world generation engine for voxel games, that brings procedural underground biomes to Minecraft ⏚**
 
