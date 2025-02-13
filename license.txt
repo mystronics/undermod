@@ -3,7 +3,7 @@ Copyright © 2025 Mystronics. All rights reserved.
 For the most recent version of this License, please visit: https://license.undermod.net
 
 This Minecraft mod ("Mod") is the intellectual property of Mystronics.
-By downloading, using, distributing, or including this Mod (such as incorporating it into a modpack or deploying it on a server), you agree to the following terms:
+By downloading, using, distributing, hosting, or incorporating this Mod (such as including it in a modpack or deploying it on a server), you agree to be bound by the following terms:
 
 --------------------------
 Ownership & Rights
