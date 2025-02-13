@@ -12,8 +12,9 @@ Ownership & Rights
 This Mod, including all original source code, compiled bytecode, assets, and the embedded voxel world generation engine, is the exclusive property of Mystronics.
 
 2. Restrictions:
-You may not claim ownership of this Mod or any of its components.
-You may not decompile, modify, or extract parts of this Mod for use in other projects or for redistribution, without explicit written permission from Mystronics.
+- You may not claim ownership of this Mod or any of its components.
+- You may not decompile, modify, or extract parts of this Mod for use in other projects or for redistribution, without explicit written permission from Mystronics.
+- You may not upload, host, or otherwise distribute this Mod on any third-party file distribution platforms, including file hosting or sharing platforms, websites, forums, mod hosting sites, or similar services, without the explicit prior written consent of Mystronics. Instead, if you wish to promote or share the Mod, you must direct potential users exclusively to the official Mod website at https://undermod.net, which is the sole site authorized to list approved sources for obtaining the Mod.
 
 --------------------------
 Allowed Usage
