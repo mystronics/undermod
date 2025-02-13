@@ -26,8 +26,9 @@ Modpack & Server Inclusion
 You are granted a non-exclusive, revocable license to include this Mod in:
 
 1. Publicly available modpacks without prior written permission, as long as:
+- Proper credit is given to Mystronics by including a link to the official Mod website (i.e. http://undermod.net).
 - The Mod is included in its original, unmodified form and is not redistributed separately.
-- Proper credit is given to Mystronics.
+- In the event that Mystronics requests removal of the Mod from the modpack, you agree to promptly remove it.
 
 2. Non-commercial Minecraft servers without prior written permission, as long as:
 - The server is free to access and does not generate revenue (e.g., no paywalls, ads, or in-game purchases).
