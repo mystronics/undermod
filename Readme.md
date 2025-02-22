@@ -1,10 +1,22 @@
 ![Undermod](https://github.com/mystronics/undermod/blob/a39428c48cdda7707398cf5f49a4d8691442dd3e/undermod_logo_highlight.png)
 
-**⏚ A new world generation engine for voxel games, that brings procedural underground biomes to Minecraft ⏚**
+### **⏚ A new world generation engine for voxel games, that now brings procedural content to Minecraft ⏚**
 
 ---
 
-Welcome! I'll be adding details here soon.
+Welcome! This is the issue tracking repository for Undermod. You can join our Discord for online discussion: [![Join Mystronics Discord](https://img.shields.io/badge/Join%20Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.gg/NemE8UWYDX) Or create a formal report for review [here](https://github.com/mystronics/undermod/issues).
+
+
+
+
+Undermod uses an embedded world generation engine that integrates into Minecraft worlds seamlessly. For now, it adds ancient sewers that can link multiple villages together, giant craters, underground forests, underground rivers and subterranean seas. Check out more details by following links in the **Downloads** section!
+![Underbiomes](https://i.imgur.com/7xJeyF6.png)
+
+### Downloads
+
+**CurseForge:** https://www.curseforge.com/minecraft/mc-mods/undermod
+
+### Source Code
 
 This mod is closed-source for now. We kindly ask users and modders to avoid copying or redistributing it without permission yet ([license](https://github.com/mystronics/undermod/blob/0272065e8ecb2185d7194edf60635e449cb3fc07/license.txt)).
 
