@@ -27,6 +27,7 @@ Modpack & Server Inclusion
 You are granted a non-exclusive, revocable license to include this Mod in:
 
 1. Publicly available modpacks without prior written permission, as long as:
+- The Mod is listed as a dependency in your modpack configuration so that downloads of the modpack are recorded as downloads of the Mod on the authorized distribution platform(s). Any attempt to embed or host the Mod independently to circumvent dependency linking is prohibited.
 - Proper credit is given to Mystronics by including a link to the official Mod website (i.e. http://undermod.net).
 - The Mod is included in its original, unmodified form and is not redistributed separately.
 - In the event that Mystronics requests removal of the Mod from the modpack, you agree to promptly remove it.
