@@ -16,6 +16,8 @@ Undermod uses an embedded world generation engine that integrates into Minecraft
 
 **CurseForge:** https://www.curseforge.com/minecraft/mc-mods/undermod
 
+**Modrinth:** https://modrinth.com/mod/mystronics-undermod
+
 ### Source Code
 
 This mod is closed-source for now. We kindly ask users and modders to avoid copying or redistributing it without permission yet ([license](https://github.com/mystronics/undermod/blob/0272065e8ecb2185d7194edf60635e449cb3fc07/license.txt)).
