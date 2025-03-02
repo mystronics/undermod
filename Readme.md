@@ -20,9 +20,9 @@ Undermod uses an embedded world generation engine that integrates into Minecraft
 
 ### Source Code
 
-This mod is closed-source for now. We kindly ask users and modders to avoid copying or redistributing it without permission yet ([license](https://github.com/mystronics/undermod/blob/0272065e8ecb2185d7194edf60635e449cb3fc07/license.txt)).
+This mod is closed-source for now. We kindly ask users and modders to avoid copying or redistributing it without permission ([license](https://github.com/mystronics/undermod/blob/0272065e8ecb2185d7194edf60635e449cb3fc07/license.txt)).
 
-In the future, we may consider open-sourcing parts of the code, such as the Minecraft mod of even the entire procedural generation engine — but no guarantees are being made at this time. If you’re interested in this possibility, please reach out rather than attempting to modify or redistribute Undermod independently.
+In the future, we might consider open-sourcing parts of the code, such as the Minecraft mod of even the entire procedural generation engine — but no guarantees are being made at this time. If you’re interested in this possibility, please reach out rather than attempting to modify or redistribute Undermod independently.
 
 Thank you for your support.
 
