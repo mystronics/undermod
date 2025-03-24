@@ -11,7 +11,7 @@ Welcome! This is the issue tracking repository for Undermod. You can join our Di
 
 ![Underbiomes](https://i.imgur.com/7xJeyF6.png)
 
-Undermod uses an embedded world generation engine that integrates into Minecraft worlds seamlessly. For now, it adds ancient sewers that can link multiple villages together, giant craters, underground forests, underground rivers and subterranean seas.
+Undermod uses its own embedded world generation engine that integrates into Minecraft worlds seamlessly. For now, it adds ancient sewers that can link multiple villages together, giant craters, underground forests, underground rivers and subterranean seas.
 
 ### For details, check the download pages:
 
