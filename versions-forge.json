@@ -1,10 +1,12 @@
 {
 	"homepage": "https://undermod.net/update",
 	"promos": {
-		"1.16.5-latest": "0.1.1",
-		"1.16.5-recommended": "0.1.1"
+		"1.16.5-latest": "0.1.3",
+		"1.16.5-recommended": "0.1.3"
 	},
 	"1.16.5": {
+		"0.1.3": "-Added feature toggle configuration options to enable/disable underbiomes and entities.\n-Added configuration option to enable/disable Undermod adaptation to previously generated chunks.\n-Worlds now detect changes in Undermod configuration and update generation accordingly.\n-Fixed bug that spawned floating blocks of water in underground rivers under certain conditions.",
+		"0.1.2": "-Improved compatibility with other world generation mods.\n-Fixed indeterministic generation error.\n-Increased equipped leech head size to work with all player skins.",
 		"0.1.1": "-Fixed crash when equipping leech head.\n-Increased sewers frequency and probability of large tunnels.\n-Added silk touch drops for stalactite blocks.",
 		"0.1.0": "First version of Undermod! Included underbiomes:\n-Sewers\n-Crater\n-Underground Forest\n-Underground Sea\n-Undeground River\n-Caverns"
 	}
