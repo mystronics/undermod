@@ -13,13 +13,13 @@ Welcome! This is the issue tracking repository for Undermod. You can join our Di
 
 Undermod uses its own embedded world generation engine that integrates into Minecraft worlds seamlessly. For now, it adds ancient sewers that can link multiple villages together, giant craters, underground forests, underground rivers and subterranean seas.
 
-### For details, check the download pages:
+## For details, check the Download pages:
 
 **CurseForge:** https://www.curseforge.com/minecraft/mc-mods/undermod
 
 **Modrinth:** https://modrinth.com/mod/mystronics-undermod
 
-### Source Code
+## Source Code
 
 This mod is closed-source for now. We ask users and modders to avoid copying or redistributing it without permission ([license](https://github.com/mystronics/undermod/blob/0272065e8ecb2185d7194edf60635e449cb3fc07/license.txt)).
 
